@@ -1,7 +1,7 @@
 # Distinct regulatory elements control in vivo mRNA stability and subcellular localization in developing neurons.
 Scripts for subtype-specific, in vivo SLAM-seq: quantification of T -> C conversions, elucidation of conserved sequence features, and identification of UTR-mediated axonal targeting.
 
-All raw sequencing files, counts tables, and T -> C conversion quantifications are avabile on the Harvard Dataverse (), and will be uploaded to NCBI GEO once the government shutdown is resolved.
+All raw sequencing files, counts tables, and T -> C conversion quantifications are avabile on the Harvard Dataverse (https://doi.org/10.7910/DVN/QTKVVC), and will be uploaded to NCBI GEO once the government shutdown is resolved.
 
 Information for each script is provided below - refer to our preprint for additional information: https://doi.org/10.1101/2025.04.23.650263.
 
