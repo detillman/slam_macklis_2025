@@ -1,7 +1,11 @@
-# slam_macklis_2025
-Scripts for subtype-specific, in vivo SLAM-seq: quantification of T -> C conversions, elucidation of conserved sequence features, and identification of UTR-mediated axonal targeting
+# Distinct regulatory elements control in vivo mRNA stability and subcellular localization in developing neurons.
+Scripts for subtype-specific, in vivo SLAM-seq: quantification of T -> C conversions, elucidation of conserved sequence features, and identification of UTR-mediated axonal targeting.
 
-helper_script.R: Miscellaneous utilities and file locations
+All raw sequencing files, counts tables, and T -> C conversion quantifications are avabile on the Harvard Dataverse (), and will be uploaded to NCBI GEO once the government shutdown is resolved.
+
+Information for each script is provided below - refer to our preprint for additional information: https://doi.org/10.1101/2025.04.23.650263.
+
+helper_script.R: Miscellaneous utilities and file locations.
 
 annotate_mismatch_reads.py: Annoates mismatched reads for identification of T -> C conversions.
 
